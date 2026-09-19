@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE metadata
+.idea/
+.vscode/
+
+# Local datasets
+data/
+
